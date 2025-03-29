@@ -85,7 +85,9 @@ ZOUZ.Wallet/
 3. Appliquer les migrations pour créer la base de données :
    ```bash
    cd src/ZOUZ.Wallet.API
+   dotnet ef migrations add InitialCreate --project ../ZOUZ.Wallet.Infrastructure --output-dir Data/Migrations
    dotnet ef database update
+
    ```
 
 4. Lancer l'application :
