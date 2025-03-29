@@ -1,0 +1,6 @@
+@ZOUZ.Wallet_HostAddress = http://localhost:5030
+
+GET {{ZOUZ.Wallet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

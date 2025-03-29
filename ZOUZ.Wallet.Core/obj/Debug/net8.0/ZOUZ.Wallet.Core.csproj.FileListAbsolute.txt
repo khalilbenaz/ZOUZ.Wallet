@@ -1,0 +1,14 @@
+/Users/lilou/RiderProjects/ZOUZ.Wallet/ZOUZ.Wallet.Core/bin/Debug/net8.0/ZOUZ.Wallet.Core.deps.json
+/Users/lilou/RiderProjects/ZOUZ.Wallet/ZOUZ.Wallet.Core/bin/Debug/net8.0/ZOUZ.Wallet.Core.dll
+/Users/lilou/RiderProjects/ZOUZ.Wallet/ZOUZ.Wallet.Core/bin/Debug/net8.0/ZOUZ.Wallet.Core.pdb
+/Users/lilou/RiderProjects/ZOUZ.Wallet/ZOUZ.Wallet.Core/obj/Debug/net8.0/ZOUZ.Wallet.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lilou/RiderProjects/ZOUZ.Wallet/ZOUZ.Wallet.Core/obj/Debug/net8.0/ZOUZ.Wallet.Core.AssemblyInfoInputs.cache
+/Users/lilou/RiderProjects/ZOUZ.Wallet/ZOUZ.Wallet.Core/obj/Debug/net8.0/ZOUZ.Wallet.Core.AssemblyInfo.cs
+/Users/lilou/RiderProjects/ZOUZ.Wallet/ZOUZ.Wallet.Core/obj/Debug/net8.0/ZOUZ.Wallet.Core.csproj.CoreCompileInputs.cache
+/Users/lilou/RiderProjects/ZOUZ.Wallet/ZOUZ.Wallet.Core/obj/Debug/net8.0/ZOUZ.Wallet.Core.dll
+/Users/lilou/RiderProjects/ZOUZ.Wallet/ZOUZ.Wallet.Core/obj/Debug/net8.0/refint/ZOUZ.Wallet.Core.dll
+/Users/lilou/RiderProjects/ZOUZ.Wallet/ZOUZ.Wallet.Core/obj/Debug/net8.0/ZOUZ.Wallet.Core.pdb
+/Users/lilou/RiderProjects/ZOUZ.Wallet/ZOUZ.Wallet.Core/obj/Debug/net8.0/ref/ZOUZ.Wallet.Core.dll
+/Users/lilou/RiderProjects/ZOUZ.Wallet/ZOUZ.Wallet.Core/obj/Debug/net8.0/ZOUZ.Wallet.Core.csproj.AssemblyReference.cache
+/Users/lilou/RiderProjects/ZOUZ.Wallet/ZOUZ.Wallet.Core/bin/Debug/net8.0/ZOUZ.Wallet.Core.runtimeconfig.json
+/Users/lilou/RiderProjects/ZOUZ.Wallet/ZOUZ.Wallet.Core/obj/Debug/net8.0/ZOUZ.Wallet.Core.genruntimeconfig.cache

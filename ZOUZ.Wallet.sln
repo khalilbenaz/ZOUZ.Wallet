@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZOUZ.Wallet.API", "ZOUZ.Wallet.API\ZOUZ.Wallet.API.csproj", "{DB26F7D2-AC8F-4B2D-8852-2176C22B58BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZOUZ.Wallet.Core", "ZOUZ.Wallet.Core\ZOUZ.Wallet.Core.csproj", "{451F75DA-A32D-4190-AF63-BAB4AABE60DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZOUZ.Wallet.Infrastructure", "ZOUZ.Wallet.Infrastructure\ZOUZ.Wallet.Infrastructure.csproj", "{83836D9B-F247-497F-BBC1-75E95CB58474}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB26F7D2-AC8F-4B2D-8852-2176C22B58BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB26F7D2-AC8F-4B2D-8852-2176C22B58BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB26F7D2-AC8F-4B2D-8852-2176C22B58BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB26F7D2-AC8F-4B2D-8852-2176C22B58BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{451F75DA-A32D-4190-AF63-BAB4AABE60DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{451F75DA-A32D-4190-AF63-BAB4AABE60DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{451F75DA-A32D-4190-AF63-BAB4AABE60DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{451F75DA-A32D-4190-AF63-BAB4AABE60DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83836D9B-F247-497F-BBC1-75E95CB58474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83836D9B-F247-497F-BBC1-75E95CB58474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83836D9B-F247-497F-BBC1-75E95CB58474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83836D9B-F247-497F-BBC1-75E95CB58474}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

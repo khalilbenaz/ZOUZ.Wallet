@@ -1,0 +1,15 @@
+/Users/lilou/RiderProjects/ZOUZ.Wallet/ZOUZ.Wallet.Infrastructure/bin/Debug/net8.0/ZOUZ.Wallet.Infrastructure.deps.json
+/Users/lilou/RiderProjects/ZOUZ.Wallet/ZOUZ.Wallet.Infrastructure/bin/Debug/net8.0/ZOUZ.Wallet.Infrastructure.dll
+/Users/lilou/RiderProjects/ZOUZ.Wallet/ZOUZ.Wallet.Infrastructure/bin/Debug/net8.0/ZOUZ.Wallet.Infrastructure.pdb
+/Users/lilou/RiderProjects/ZOUZ.Wallet/ZOUZ.Wallet.Infrastructure/obj/Debug/net8.0/ZOUZ.Wallet.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lilou/RiderProjects/ZOUZ.Wallet/ZOUZ.Wallet.Infrastructure/obj/Debug/net8.0/ZOUZ.Wallet.Infrastructure.AssemblyInfoInputs.cache
+/Users/lilou/RiderProjects/ZOUZ.Wallet/ZOUZ.Wallet.Infrastructure/obj/Debug/net8.0/ZOUZ.Wallet.Infrastructure.AssemblyInfo.cs
+/Users/lilou/RiderProjects/ZOUZ.Wallet/ZOUZ.Wallet.Infrastructure/obj/Debug/net8.0/ZOUZ.Wallet.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/lilou/RiderProjects/ZOUZ.Wallet/ZOUZ.Wallet.Infrastructure/obj/Debug/net8.0/ZOUZ.Wallet.Infrastructure.dll
+/Users/lilou/RiderProjects/ZOUZ.Wallet/ZOUZ.Wallet.Infrastructure/obj/Debug/net8.0/refint/ZOUZ.Wallet.Infrastructure.dll
+/Users/lilou/RiderProjects/ZOUZ.Wallet/ZOUZ.Wallet.Infrastructure/obj/Debug/net8.0/ZOUZ.Wallet.Infrastructure.pdb
+/Users/lilou/RiderProjects/ZOUZ.Wallet/ZOUZ.Wallet.Infrastructure/obj/Debug/net8.0/ref/ZOUZ.Wallet.Infrastructure.dll
+/Users/lilou/RiderProjects/ZOUZ.Wallet/ZOUZ.Wallet.Infrastructure/obj/Debug/net8.0/ZOUZ.Wallet.Infrastructure.csproj.AssemblyReference.cache
+/Users/lilou/RiderProjects/ZOUZ.Wallet/ZOUZ.Wallet.Infrastructure/bin/Debug/net8.0/ZOUZ.Wallet.Core.dll
+/Users/lilou/RiderProjects/ZOUZ.Wallet/ZOUZ.Wallet.Infrastructure/bin/Debug/net8.0/ZOUZ.Wallet.Core.pdb
+/Users/lilou/RiderProjects/ZOUZ.Wallet/ZOUZ.Wallet.Infrastructure/obj/Debug/net8.0/ZOUZ.Wal.839D0637.Up2Date

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/ZOUZ.Wallet.API.props" />
+</Project>
